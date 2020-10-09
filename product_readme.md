@@ -1,0 +1,14 @@
+attributeset
+attribute
+product table
+product_gallery
+attribute_product
+category_product
+product_varition
+stock
+product_variation_order
+wishlist
+wishlistitem
+order
+review
+transaction

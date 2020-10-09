@@ -1,0 +1,2 @@
+BASEURL=http://gegocart-admin.test/api
+SITEURL=http://admin-app.test/

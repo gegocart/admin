@@ -1,0 +1,28 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+public/uploads/uploads/images*
+!public/uploads/uploads/images/index.html
+public/uploads/uploads/storeimage*
+!public/uploads/uploads/storeimage/index.html
+public/uploads/uploads/storeimage/logo*
+!public/uploads/uploads/storeimage/logo/index.html
+public/profile*
+!public/profile/index.html
+ public/uploads/images/thumbnail*
+ !public/uploads/images/thumbnail/index.html
+  public/uploads/uploads/review*
+ !public/uploads/uploads/review/index.html
+ public/uploads/invoice*
+ !public/uploads/invoice/index.html
+

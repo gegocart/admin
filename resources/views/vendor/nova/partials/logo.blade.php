@@ -1,0 +1,1 @@
+<img src="{{ url('/images/gegocart-logo.png') }}" style="width: 252px; height: auto;">

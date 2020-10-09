@@ -1,0 +1,41 @@
+<?php
+
+return [
+
+'stores'=>'Stores',
+'createstore'=>'Create Store',
+'id'=>'ID',
+'name'=>'Name',
+'user'=>'User',
+'status'=>'Status',
+'actions'=>'Actions',
+'storedetails'=>'Store Details',
+'sellername'=>'Seller Name',
+'email'=>'Email',
+'emailverified'=>'Email Verified',
+'verified'=>'verified',
+'editstore'=>'Edit Store',
+'deletestore'=>'Delete Store',
+'profile'=>'Profile',
+'description'=>'Description',
+'seller'=>'Seller',
+
+'email'=>'Email',
+'usergroup'=>'Usergroup',
+'seller'=>'Seller',
+'mobile'=>'Mobile',
+'status'=>'Status',
+'active'=>'Active',
+'inactive'=>'InActive',
+
+'storename'=>'Store Name is required',
+'slug'=>'Slug is required',
+'storestatus'=>'Store Status is required',
+'storedescription'=>'Description is required',
+'keywords'=>'Keywords is required',
+'address'=>'Address is required',
+'storelogo'=>'Store Logo is required',
+'storeimage'=>'Store Image is required',
+'logowidth'=>'Logo size 100 * 100(pixels)',
+'coverwidth'=>'Cover size 1200 * 400(pixels)',
+];

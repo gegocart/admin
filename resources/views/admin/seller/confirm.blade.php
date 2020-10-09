@@ -1,0 +1,2 @@
+<confirm-vue>
+</confirm-vue>
