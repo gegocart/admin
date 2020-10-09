@@ -1,4 +1,5 @@
 GegoCart - Multi Vendor Shopping Cart based on Laravel Framework and NUXT JS
+For complete feature list, preset-demo & support, check https://gegocart.com
 
 ## GegoCart - Multi-Vendor Shopping Cart
 
@@ -10,7 +11,7 @@ The software includes the following
 - Mobile App - (In Development)
 - POS App - ( In Development)
 
-# Installation of the Admin Laravel App
+### Installation of the Admin Laravel App
 
 Pull the code from Repo
 
@@ -37,7 +38,7 @@ Install the Gego-Cart with Test Install. It will install the software and run th
 	<code> $ bash testinstall.sh</code>
 </pre>
 
-# Using Postman Colletcion
+### Using Postman Colletcion
 
 There is a postman collection in the root folder. Use that for your development works.
 
